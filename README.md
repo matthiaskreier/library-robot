@@ -1,13 +1,22 @@
 # library-robot
+
 An automated robot to ensure a quiet study atmosphere, and inform students when it is time to go home.
+
+## Original Code
 
 The original project is described at [https://github.com/lolmrdabbydab/MakeBlock-UltraSonicSensor](https://github.com/lolmrdabbydab/MakeBlock-UltraSonicSensor)
 
-This _passion project_ by the students My Nguyen, Thai Le, Phu Le and Triet Do.
+## Description
+
+This _passion project_ by the students My Nguyen, Thai Le, Phu Le and Triet Do. This robot listens to the noise in the library and shouts a warning if it is too loud. At the end of the day, the librarian can just press a button, and the robot will drive around the library automatically, avoid obstacles with the ultrasonic distance sensor and repead every 10 seconds the message to clear the library.
 
 A video about this project can be [found on YouTube](https://youtu.be/Inp2bbtwn5M)
 
-Developed by Milly, Phy and Thai, this robot listens to the noise in the library and shouts a warning if it is too loud. At the end of the day, the librarian can just press a button, and the robot will drive around the library automatically, avoid obstacles with the ultrasonic distance sensor and repead every 10 seconds the message to clear the library.
+## The SAMK Competition
+
+More can be seen on the website https://www.samk.fi/en/education/master-robot-builders/. And there is a poster about this competition too at https://www.samk.fi/wp-content/uploads/2022/01/Robot-builders-poster.pdf 
+
+## Progress
 
 On Friday, May 6th the robot reached a final stage. It was driving correctly, had three different mp3 outputs, reacted to the ultrasonic sensor and no longer required a screen:
 
